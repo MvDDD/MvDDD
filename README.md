@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 Here is the one-pixel image filled with `#0f0f0f`:
 
-![One Pixel Image](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/wcAAwAB/UNqsb4AAAAASUVORK5CYII=)
+![One Pixel Image](http://data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/wcAAwAB/UNqsb4AAAAASUVORK5CYII=)
