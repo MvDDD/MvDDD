@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything not too complicated
 - 📫 How to reach me send a dm on discord: MFFVD (#1292)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: take a look at my 3drenderer. i made everything myself but the 3DrotationMatrix and made chatGPT solve most of the errors. now trying to apply textures
+- ⚡ Fun fact: I can read 1000+ words per minute
 
 <!---
 MvDDD/MvDDD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
